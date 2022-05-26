@@ -5,6 +5,7 @@ Dependencies:
 - Oneblock Pmmp4
 - Dev Build #54
 - https://github.com/BeeAZ-pm-pl/Oneblock
+# Steps
 
 1. Add The Plugin To Your Server Config File
 2. Stop The Server And Start It/Restart
